@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-Inicio-->
+<estudiante numCuenta="412011672">
+  <nombre>
+    Grisel
+  </nombre>
+  <edad>
+    27
+  </edad>
+  <correo>
+    griselcv@ciencias.unam.mx
+  </correo>
+  <sexo>
+    femenino
+  </sexo>
+</estudiante>
